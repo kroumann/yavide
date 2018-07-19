@@ -110,6 +110,7 @@ PLUGINS="$PLUGINS https://github.com/tpope/vim-pathogen"
 SCHEMES="$SCHEMES https://github.com/JBakamovic/yaflandia.git"
 SCHEMES="$SCHEMES https://github.com/jeffreyiacono/vim-colors-wombat"
 SCHEMES="$SCHEMES https://github.com/morhetz/gruvbox.git"
+SCHEMES="$SCHEMES https://github.com/flazz/vim-colorschemes.git"
 
 #####################################################################################################
 # Setup the installation directory
